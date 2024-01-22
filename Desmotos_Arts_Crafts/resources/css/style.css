@@ -1,0 +1,32 @@
+
+h1{
+    background-image: url("../Desmotos_Arts_Crafts/resources/images/pattern.jpeg");
+    font-size: 100px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: khaki;
+    margin: 0 auto;
+}
+h2{
+    font-family: Helvetica, sans-serif ;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+strong{
+    color: blue;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+#hacksaw{
+    background-color: mediumspringgreen;
+}
+
+#frames{
+    background-color: lightcoral;
+}
+
+#paint{
+    background-color: skyblue ;
+}
